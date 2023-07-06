@@ -15,7 +15,7 @@ public class GoogleClass
 		System.setProperty("webdriver.chrome.driver","C:/Users/Gangadi Vamsiganesh/Downloads/chromedriver_win32 (12)/chromedriver.exe");
 		// Instantiate a ChromeDriver class.
 	    WebDriver driver = new ChromeDriver();
-	    System.out.println("Browser1 Opened2");
+	    System.out.println("Browser2 Opened2");
 		
 		// Maximize the browser
 	    driver.manage().window().maximize();
