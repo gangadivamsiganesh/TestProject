@@ -13,6 +13,7 @@ public class LoginPage
 	public void website_opened_successful() 
 	{
 	   System.out.println("Website Opened");
+	   System.out.println("Website2 Opened2");
 	}
 	
 	@Given("^Enter (.*) and (.*) fields$")
